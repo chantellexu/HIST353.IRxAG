@@ -4,7 +4,23 @@ title: References
 permalink: /references
 ---
 
-This theme is completely free and open source software. You may use it however you want, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=My%question%about%Millennial%is:%&amp;via=paululele), or [file a GitHub issue](https://github.com/lenpaul/Millennial/issues/new).
+
+
+
+<u> Image references </u>
+
+AhmedSalim. “The House of Wisdom: Baghdad’s Intellectual Powerhouse.” 1001 Inventions, May 22, 2019. https://www.1001inventions.com/house-of-wisdom/. 
+
+Chakra, Hayden. “The Peak of Islamic Science and Technology during Their Golden Age.” About History, May 5, 2023. https://about-history.com/the-peak-of-islamic-science-and-technology-during-their-golden-age/. 
+
+Jancer, Matt. “Wanna Scratch That Travel Itch? Try Youtube.” Wired, June 27, 2023. https://www.wired.com/story/rave-youtube-travel-videos/. 
+
+“Middle Ages Timeline.” Timetoast timelines. Accessed March 19, 2024. https://www.timetoast.com/timelines/middle-ages-b32201aa-a30d-4fbb-95c5-ca95795ab783. 
+
+Satyaagrah. “What Is the Reality of the Sufis: In Their Own Words.” Satyaagrah. Accessed March 19, 2024. https://satyaagrah.com/religion/islam/559-what-is-the-reality-of-the-sufis-in-their-own-words. 
+
+Science Photo Library. Accessed March 19, 2024. https://www.sciencephoto.com/. 
+
 <br>
 <br>
 <br>
