@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Getting Started"
-author: "Paul Le"
+title: "Religion in Political Governance"
+author: "Chantelle :P"
 categories: documentation
 tags: [documentation,sample]
-image: city-1.jpg
+image: politics.jpeg
 ---
 
 # Millennial

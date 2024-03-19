@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Differing Views and Beliefs"
+title: "Their Differing Views and Beliefs"
 author: ""
 categories: documentation
 tags: [documentation,sample]

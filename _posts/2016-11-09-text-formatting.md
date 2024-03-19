@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Text Formatting"
-author: "Paul Le"
+title: "Cultural Exchange"
+author: "Chantelle"
 categories: sample
 tags: [sample]
-image: arctic-1.jpg
+image: housewisdom.jpeg
 ---
 
 # Markdown Support
