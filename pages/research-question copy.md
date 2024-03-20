@@ -3,7 +3,7 @@ layout: page
 title: 
 permalink: /research-question
 ---
-![image](/assets/img/goldenage.jpeg) 
+<img src="/assets/img/goldenage.jpeg" alt="Description of the image" />
  <div style="text-align: justify;"> <span style="line-height: 1.5;"> <strong> How did Ibn Rushd and Al-Ghazali's differing views on the sources and limits of human knowledge influence their engagement with the sociopolitical issues of their time?</strong>
  <br>
  <br>
