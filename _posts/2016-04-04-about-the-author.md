@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What Can We Learn?"
+title: "Today...what can we learn?"
 author: "Paul Le"
 categories: facts
 tags: [sample]

@@ -8,6 +8,7 @@ google-ID: ''
 
 menu:
 - {name: 'Research Question', url: 'research-question'}
+- {name: 'Stakeholders',      url: 'stakeholders'}
 - {name: 'References',        url: 'references'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
