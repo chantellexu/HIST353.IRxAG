@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Their Differing Views and Beliefs"
+title: "On the sources and limits of human knowledge"
 author: ""
 categories: documentation
 tags: [documentation,sample]
