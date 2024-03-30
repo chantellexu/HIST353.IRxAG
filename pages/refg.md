@@ -4,8 +4,7 @@ title:
 permalink: /personal-bias
 ---
 <span style="line-height: 1.5;"> 
- <em>If you've read my work so far, it's clear that I have a bias...I wrote the following at the beginning of my research, and my bias has come out in my writing even more than I thought it would: </em>
- 
+
  I find myself much more aligned with Ibn Rushd's viewpoints, and my bias continues to increase as I go more into their works and debates. 
 <br>
 <br>
