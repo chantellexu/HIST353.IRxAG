@@ -25,3 +25,9 @@ In "The Book of Knowledge," Al-Ghazali explains the classification of knowledge 
 <u>SUMMARY </u>
 <br>
 Ibn Rushd and Al-Ghazali had different perspectives on the sources and limits of human knowledge, based on their philosophical and religious outlooks. Ibn Rushd, advocated for reason and empirical observation, which differed from Al-Ghazali, who prioritised divine revelation and mystical experience. Ibn Rushd believed in reason, and made efforts to reconcile philosophy with Islam. On the other hand, Al-Ghazali criticised Neoplatonic Islamic philosophy (Hasan), arguing that it contradicted Islam's central beliefs. Al-Ghazali fought for religious orthodoxy over philosophical speculation. These fundamental beliefs of Ibn Rushd and Al-Ghazali on the sources of knowledge are shown in their broader stances on cultural exchange, political governance, and mysticism. Their intellectual disagreements shed light on the complex intellectual landscape within the Abbasid era. </span>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
