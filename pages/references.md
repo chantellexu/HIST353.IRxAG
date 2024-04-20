@@ -3,39 +3,37 @@ layout: page
 title: References
 permalink: /references
 ---
-(still in the works)
+Al-Ghazali, Abū Ḥāmid. "INCOHERENCE OF THE PHILOSOPHERS." https://www.ghazali.org/incoherence-of-the-philosophers-s-kamali/. Accessed Mar. 2024.
 
-Averroës, and George Fadlo Hourani. On the Harmony of Religions and Philosophy. A Translation, with Introd. and Notes, of Ibn Rushd’s Kitāb Faṣl Almaqāl. Luzac, 1976.
+Al-Ghazali, Abū Ḥāmid. "THE BOOK OF KNOWLEDGE." www.ghazali.org/works/bk1-sec-1.htm#exl-rsn. Accessed Mar. 2024.
 
-Al-Ghazali, Abū Ḥāmid. The Book of Knowledge, www.ghazali.org/works/bk1-sec-1.htm#exl-rsn. Accessed Mar. 2024.
 
-Al-Ghazali, Abū Ḥāmid. Incoherence of the Philosophers, https://www.ghazali.org/incoherence-of-the-philosophers-s-kamali/ Accessed Mar. 2024.
+Averroës, and George Fadlo Hourani. *On the Harmony of Religions and Philosophy. A Translation, with Introd. and Notes, of Ibn Rushd’s Kitāb Faṣl Almaqāl.* Luzac, 1976.
 
-Al-Ghazali, Abū Ḥāmid. The Revival of Religious Sciences, https://www.ghazali.org/site/ihya.htm Accessed Mar. 2024.
+Ben Ahmed, Fouad, and Robert Pasnau. "Ibn Rushd [Averroes]." Stanford Encyclopedia of Philosophy, Stanford University, 23 June 2021,plato.stanford.edu/entries/ibn-rushd/#EthiPoli.
 
-L., Young M J, et al. Al-Ghazālī (Chapter 25) - Religion, Learning and Science in the ʻAbbasid Period. Cambridge University Press, 2014.
+Faruki, Ashraful. "Imam Al-Ghazali’s Perspective on Sufism: Integrating Sharī’ah, Spirituality, and Ethics." Islamonweb English, 7 Sept. 2023, en.islamonweb.net/imam-al-ghazalis-perspective-on-sufism-integrating-shariah-spirituality-and-ethics. Accessed 20 Apr. 2024.
 
-Hasan, Ali. “Al-Ghazali and Ibn Rushd (averroes) on creation and the divine attributes.” Models of God and Alternative Ultimate Realities, 15 Nov. 2012, pp. 141–156, https://doi.org/10.1007/978-94-007-5219-1_13.
+Habti, Driss. "Reason and revelation for an Averroist pursuit of convivencia and intercultural dialogue." *Policy Futures in Education*, vol. 9, no. 1, 1 Jan. 2011, pp. 81–87, https://doi.org/10.2304/pfie.2011.9.1.81.
 
-Ruano, Delfina Serrano. “Why Did the Scholars of Al-Andalus Distrust Al-Ghazālī? Ibn Rushd Al-Jadd’s Fatwā on Awliyā’ Allāh.” Der Islam, vol. 83, no. 1, 1 Jan. 2006, https://doi.org/10.1515/islam.2006.005. Accessed 6 Nov. 2019.
+Hasan, Ali. "Al-Ghazali and Ibn Rushd (averroes) on creation and the divine attributes." *Models of God and Alternative Ultimate Realities*, 15 Nov. 2012, pp. 141–156, https://doi.org/10.1007/978-94-007-5219-1_13.
 
-Hakim, Ahmad. “Counter-Discourse on the Criticism of Ibn Rushd toward Al-Ghazali.” Jurnal Theologia, vol. 32, no. 1, 23 July 2021, pp. 63–88, journal.walisongo.ac.id/index.php/teologia/article/view/8330, https://doi.org/10.21580/teo.2021.32.1.8330. Accessed 9 Oct. 2023.
+McRae, Mike. "Our Universe Is Finely Tuned for Life, and There’s an Explanation for Why That Is So." *ScienceAlert*, 22 Nov. 2021, www.sciencealert.com/we-could-have-a-new-way-to-explain-why-our-universe-is-as-finely-tuned-for-life-as-it-is.
 
-Philosmus. Philosmus, philosmus.org/wp-content/uploads/2021/05/002074.pdf. Accessed Mar. 2024.
+Mohd Noor, Ahmad Yunus, et al. "The intellect of Abū Hāmid al-Ghazālī in dealing with the qur’anic scientific exegesis." *Islamiyyat*, vol. 44, no. IK, 1 June 2022, pp. 123–132, (https://doi.org/10.17576/islamiyyat-2022-44ik-12.
 
-“Al-Ghazali vs Ibn Rushd: A Debate More Important than Many Realise.” NayaDaur, 24 May 2020, nayadaur.tv/24-May-2020/al-ghazali-vs-ibn-rushd-a-debate-more-important-than-many-realise.
+Musa, Abdulrashid. "Reflection on the Islamic Philosophical Contributions of Ibn Rushd: An Educational Overview." June 2022, www.researchgate.net/publication/361282649_Reflection_on_the_Islamic_Philosophical_Contributions.
 
-Montada, Josep Puig. “IBN RUSHD versus AL-GHAZALI: RECONSIDERATION of a POLEMIC.” The Muslim World, vol. 82, no. 1-2, Apr. 1992, pp. 113–132, https://doi.org/10.1111/j.1478-1913.1992.tb03544.x. Accessed 26 Dec. 2021.
+Omar, Ayesha. "Ibn Rushd’s the decisive treatise: A text for political reform." *The Medieval History Journal*, vol. 22, no. 1, 10 Dec. 2018, pp. 131–155, https://doi.org/10.1177/0971945818801398.
 
-Taliaferro, Karen. “Ibn Rushd and natural law: Mediating human and divine law.” Journal of Islamic Studies, vol. 28, no. 1, 22 Sept. 2016, pp. 1–27, https://doi.org/10.1093/jis/etw045.
+Philosmus. philosmus.org/wp-content/uploads/2021/05/002074.pdf. Accessed Mar. 2024.
 
-Omar, Ayesha. “Ibn Rushd’s the decisive treatise: A text for political reform.” The Medieval History Journal, vol. 22, no. 1, 10 Dec. 2018, pp. 131–155, https://doi.org/10.1177/0971945818801398.
+Sahri. "Political Thought of Al-Ghazali on Imamah: Debate between Theocracy and Democracy." *HTS Teologiese Studies / Theological Studies*, vol. 77, no. 3, 29 Apr. 2021, https://doi.org/10.4102/hts.v77i3.6338. Accessed 10 Sept. 2021.
 
-Rahman, Azizur, et al. “Biographical review of Ibn Rushd (averroes) – a physician of 12th CE.” Journal of Medical Biography, vol. 30, no. 4, 3 Mar. 2021, pp. 214–216, https://doi.org/10.1177/0967772020981310.
+Taliaferro, Karen. "Ibn Rushd and natural law: Mediating human and divine law." *Journal of Islamic Studies*, vol. 28, no. 1, 22 Sept. 2016, pp. 1–27, https://doi.org/10.1093/jis/etw045.
 
-Musa, Abdulrashid. “Reflection on the Islamic Philosophical Contributions of Ibn Rushd: An Educational Overview.” June 2022, www.researchgate.net/publication/361282649_Reflection_on_the_Islamic_Philosophical_Contributions.
+"Who Was Ibn Rushd? The ‘bridge’ between Islamic and Western Philosophy." *Middle East Eye*, www.middleeasteye.net/discover/ibn-rushd-islamic-western-philosophy-bridge. Accessed Mar. 2024.
 
-Ben Ahmed, Fouad, and Robert Pasnau. “Ibn Rushd [Averroes].” Stanford Encyclopedia of Philosophy, Stanford University, 23 June 2021, plato.stanford.edu/entries/ibn-rushd/#EthiPoli.
 
 <br>
 <u> Image references </u>
